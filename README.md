@@ -1,4 +1,5 @@
 In order to run this app, follow the instructions:
+
 **1) Install GO**
 Download go from https://go.dev/dl/
 After, run this:

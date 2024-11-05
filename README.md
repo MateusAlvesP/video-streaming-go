@@ -32,6 +32,6 @@ Details on installation here: https://github.com/hybridgroup/gocv
 
 **5) Run the program**
 
-First run ```go run main.go``` to execute the publisher to stream webcam data using RabbitMQ
+First run ```go run cmd/producer/main.go``` to execute the publisher to stream webcam data using RabbitMQ
 
-After run ```go run consumer/consumer.go``` to execute the consumer that will receive the data in RabbitMQ ant show it in a window.
+After run ```go run cmd/consumer/maing.go``` to execute the consumer that will receive the data in RabbitMQ ant show it in a window.
